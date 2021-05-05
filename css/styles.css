@@ -1,0 +1,232 @@
+  /* title */
+  #title{
+    background-color: #00b4d8;
+    padding: 3% 15% 7%;
+    /* text-align: center; */
+  }
+
+.title-img{
+  width: 50%;
+  border-radius: 20%;
+}
+
+.title-image{
+  width: 45%;
+  border-radius: 20%;
+}
+
+.title-images{
+  width: 50%;
+  border-radius: 20%;
+  height: 400px;
+}
+
+.navbar{
+  padding: 0 0 4rem 0;
+}
+
+.nav-item{
+  padding: 0 10px;
+}
+
+.nav-link{
+  font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
+  padding-left: 10%;
+}
+
+
+.download-button{
+  width: 30%;
+  margin: 10% 3% 3% 0;
+  /* cursor: pointer; */
+}
+
+.navbar-brand{
+  font-family: 'Dancing Script', cursive;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 200;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  font-weight: 700;
+}
+
+
+.title-carousel{
+  margin-left: 40%;
+}
+
+
+    /* Everyday Parfait */
+#everyday-parfait {
+  background-color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  padding: 5% 15% 7%;
+  line-height: 1.5;
+}
+
+.perfect-parfait{
+  font-size: 1.5rem;
+  padding-left: 5%;
+  color: gray;
+}
+
+.parfait-heading{
+  font-size: 3rem;
+  padding-bottom: 5%;
+}
+
+.company {
+  font-family: 'Lobster', cursive;
+  text-decoration: underline;
+  font-size: 2.5rem;
+  color: black;
+}
+
+
+           /* Products */
+
+#products{
+   background-color: #ade8f4;
+  padding: 5% 2% 5% 5%;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.products-text{
+  font-family: 'Sacramento', cursive;
+  font-size: 2rem;
+  padding-top: 7%;
+}
+
+.products-heading {
+  font-family: serif;
+  font-size: 3rem;
+
+}
+
+
+#further{
+  background-color: #ade8f4;
+  text-align: center;
+  padding: 0 0 3%;
+}
+
+.further-text {
+  font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+  /* font-weight: bold; */
+  line-height: 1.5;
+}
+
+span{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  text-decoration: underline;
+}
+
+
+     /* Pricing Section */
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-head {
+  font-family: cursive;
+  font-size: 2.5rem;
+}
+
+.pricing-column{
+  padding: 3% 2%;
+}
+
+.pricing-button{
+  margin: 2% 3%;
+}
+
+.pricing-text {
+  font-family: 'Lobster', cursive;
+  color: gray;
+  font-weight: lighter;
+}
+
+.price {
+  font-family: 'Montserrat', sans-serif;
+}
+
+        /* Press */
+
+#press{
+  text-align: center;
+}
+
+.press-image{
+  margin: 0 3%;
+}
+
+      /* Testimonials */
+
+#testimonials {
+  background-color: #48cae4;
+  text-align: center;
+}
+
+.testimonial-img {
+    width: 7%;
+    margin: 20px;
+}
+
+.testimonial-text {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.testimonial-carousel {
+  padding: 7% 15%;
+}
+
+
+                  /* Footer */
+#footer {
+  background-color: gray;
+  padding: 7% 10%;
+  text-align: center;
+  color: #fff;
+}
+
+.icons {
+  margin: 3% 2%;
+}
+
+@media (max-width: 991.98px) {
+  .perfect-parfait {
+    margin-top: 7%;
+    text-align: center;
+  }
+
+  .download-button {
+    padding-bottom: 10%;
+  }
+
+  /* .company{
+    text-align: center;
+  } */
+
+
+  .title-carousel{
+    margin-left: 30%;
+  }
+
+  .h1{
+    font-size: 2rem;
+  }
+}
